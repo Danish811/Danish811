@@ -3,12 +3,12 @@
 <!--img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"-->
 </div><h1 align="center">I am Mohd Danish Sheikh</h1>
 <h3 align="center">Either a null model or a full-throttle Pythonista</h3>
-<img align="right" width="280" src="https://github.com/NebulaTris/NebulaTris/assets/94922914/06c4b204-629f-4b72-9365-12ad1cc647ad">
+
 <!--<img align="right" width="280" src="https://github.com/NebulaTris/NebulaTris/assets/94922914/60503578-ac7d-483d-bf6a-0ba07f9b09d7"-->
 
 
 <!--<img align="right" width="400" src="https://user-images.githubusercontent.com/94922914/233508815-a208793f-7564-4ee8-9a01-1c487e22ccef.gif">-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nebulatris&label=Profile%20views&color=0e75b6&style=flat" alt="Danish811" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Danish811&label=Profile%20views&color=0e75b6&style=flat" alt="Danish811" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning and Python Development**
 
