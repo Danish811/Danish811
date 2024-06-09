@@ -29,7 +29,3 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=Danish811&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
 <!--<img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NebulaTris&hide_progress=true&langs_count=10&theme=aura&hide_border=true"/>->
 <!--<img width="400" src="https://api.githubtrends.io/user/svg/NebulaTris/langs?time_range=one_year&theme=dark"/>&ensp; <img width="400" src="https://api.githubtrends.io/user/svg/NebulaTris/repos?time_range=one_year&theme=dark"/>-->
-
-# 🏆 GitHub Trophies
-<!--<img src="https://github-profile-trophy.vercel.app/?username=NebulaTris&theme=onestar&no-frame=false&no-bg=true&margin-w=4" />-->
-<img src="https://github-trophies.vercel.app/?username=Danish811&theme=onestar&no-frame=true" width="800"/>
