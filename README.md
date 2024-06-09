@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a **Python Developer**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Competitive Programming, System Design & CS-fundamentals ( OS, DBMS, OOPS, Computer Networking & DSA )**
+- 💬 Ask me about **Machine Learning, Deep Learning, Competitive Programming & DSA**
 
 - 📫 How to reach me **Sheikhd811@gmail.com**
 
