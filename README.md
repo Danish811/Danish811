@@ -1,11 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Danish</h1>
-<h3 align="center">A passionate Machine Learning Engineer</h3>
+<h3 align="center">A passionate Python and Django Developer</h3>
 
-- 🔭 I’m currently working as a **Python Developer**
-
+- 🔭 3 Star @Codechef and GenAI Enthusiast, proficient in Django, FastAPI, SQL
 - 💬 Ask me about **Machine Learning, Backend Development, Competitive Programming & DSA**
-
 - 📫 How to reach me **Sheikhd811@gmail.com**
   
 ![](https://komarev.com/ghpvc/?username=Danish811)
