@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Danish</h1>
 <h3 align="center">A passionate Python and Django Developer</h3>
 
-- 🔭 3 Star @Codechef and GenAI Enthusiast, proficient in Django, FastAPI, SQL
+- 🔭 3 Star @Codechef and GenAI Enthusiast, proficient in Langchain, Tensorflow, Django, FastAPI, SQL with strong CS Fundamental knowledge
 - 💬 Ask me about **Machine Learning, Backend Development, Competitive Programming & DSA**
 - 📫 How to reach me **Sheikhd811@gmail.com**
   
