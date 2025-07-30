@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Danish</h1>
-<h3 align="center">A passionate Python and Backend+GenAI Developer</h3>
+<h3 align="center">I am passionate for Machine Learning and Backend Development</h3>
 
 - 🔭 3 Star @Codechef and GenAI Enthusiast, proficient in Langchain, Tensorflow, Flask, FastAPI, SQL with strong CS Fundamental knowledge
 - 💬 Ask me about **Machine Learning, Backend Development, Competitive Programming & DSA**
